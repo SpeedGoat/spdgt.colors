@@ -1,0 +1,18 @@
+Package: spdgt.colors
+Title: SpeedGoat color palette storage and gradient creation
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Josh",
+           family = "Nowak",
+           role = c("aut", "cre"),
+           email = "josh.nowak@speedgoat.io",
+           comment = c(ORCID = "0000-0002-8553-7450"))
+Description: Simple package to store SpeedGoat color palette.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 2.10)
+URL: https://github.com/SpeedGoat/spdgt.colors
+BugReports: https://github.com/SpeedGoat/spdgt.colors/issues
+RoxygenNote: 7.1.0
